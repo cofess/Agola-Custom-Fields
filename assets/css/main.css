@@ -96,3 +96,5 @@ body {
     padding: 0;
     margin: 0;
 }
+.is-expanded {}
+.is-expanded v-pane-content{max-height:inherit!important}
